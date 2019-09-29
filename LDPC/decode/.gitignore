@@ -1,0 +1,11 @@
+/ReaderLdpcImp.o
+/ldpcmpamdec.o
+/ReaderInputWNoise.o
+/LdpcDecodeProcessBase.o
+/CalcSimbToBitsMsg.o
+/ReaderInputBits.o
+/encode_decode.o
+/encode_decode_enc_lib.o
+/encode_decode_parse_opt.o
+/decode_teste.o
+/encode_decode.cpp.old
